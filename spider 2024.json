@@ -185,28 +185,6 @@
       },
       "objectsGroups": [
         {
-          "name": "TileGroup",
-          "objects": [
-            {
-              "name": "Tile"
-            },
-            {
-              "name": "TileLinker"
-            }
-          ]
-        },
-        {
-          "name": "MoverTargetGroup",
-          "objects": [
-            {
-              "name": "Mover"
-            },
-            {
-              "name": "oldTarget"
-            }
-          ]
-        },
-        {
           "name": "nodeGroup",
           "objects": [
             {
